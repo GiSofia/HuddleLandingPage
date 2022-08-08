@@ -16,6 +16,7 @@ body{
     background-image: url('./images/bg-mobile.svg');
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
 }
 
 .section-container{
@@ -23,6 +24,7 @@ body{
     flex-direction: column;
     padding: 45px 15px;
     align-items: center;
+    margin-right: 10px;
 }
 
 .logo{
@@ -38,7 +40,7 @@ body{
 }
 
 .section-content{
-    padding: 10px 7px;
+    padding: 10px 2px;
     margin-top: 40px;
     text-align: center;
 }
